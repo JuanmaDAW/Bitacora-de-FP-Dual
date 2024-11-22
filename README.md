@@ -1,4 +1,4 @@
-# Bitacora de FP Dual
+# Bitacora de FP Dual 📘
 
 ## Información General
 - **Nombre del Practicante:** Juan Manuel Vizcaíno Barquero
