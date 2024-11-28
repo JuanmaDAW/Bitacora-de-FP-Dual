@@ -28,6 +28,24 @@
 
 ---
 
+## Día 3 <br>  26/11/2024
+
+**Entrada:** 8:30 <br>
+**Salida:** 15:00
+
+**Actividad:** Estuve avanzando el proyecto de la calculadora con Bootstrap, haciendo validaciones, implementando funciones de la calculadora científica etc, además, pude ponerme en contacto por primera vez con mi tutor en la empresa, Joaquín Gil Silva por la aplicación de Teams, que se usa para comunicarse con todos los miembros de la empresa, me estuvo explicando como vamos a hacer las cosas estos meses, me mandó dos packs de cursos de Udemy para empezar a formarme, sobretodo enfocado en el desarrollo Frontend con Angular JS, también me dijo que cada vez que terminase un curso ibamos a entrar en videollamada y él me pediría hacer una practica relacionada con dicho curso y que debería de resolver delante de él, después de eso seguí con la calculadora hasta que terminó la jornada.
+
+---
+
+## Día 4 <br>  28/11/2024
+
+**Entrada:** 8:30 <br>
+**Salida:** 15:00
+
+**Actividad:** Pude terminar el proyecto de la calculadora, al final nos dijeron que lo hiciesemos con JavaScript en lugar de TypeScript, estuve hasta las 10:20 aproximadamente, a continuación me puse con el primer curso que me mandó mi tutor, llamado: "Curso de HTML5, el más completo y en español" de Victor Robles Web, en la plataforma de Udemy, de una duración aproximada de unas 4horas, que pude terminar a las 15:00 justo antes de irme y recibiendo el certificado del curso
+
+---
+
 
 
 
