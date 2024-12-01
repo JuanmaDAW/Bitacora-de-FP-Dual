@@ -46,6 +46,15 @@
 
 ---
 
+## Día 5 <br>  29/11/2024
+
+**Entrada:** 8:30 <br>
+**Salida:** 15:00
+
+**Actividad:** El día de hoy empecé el Máster de CSS, en el que incluye Bootstrap, SASS, LESS, FLEX, GRID y diseño responsive, de unas 20 horas y media aproximadamente, a las 10:00 tuvimos una reunión con asunto de Bienvenida a los Nuevos Becarios de ViewNext, hablamos de los valores de la empresa, eventos que realizan internos para fomentar las relaciones entre empleados, ventajas que tenemos por pertenecer a la empresa etc, por último realizamos un Kahoot para ver si habíamos prestado atención a la charla, que terminó sobre las 11:00 de la mañana. Después de esto seguí con el Máster y unos minutos antes de terminar la jornada me puse a ver la documentación de Angular desde su página oficial para ir viendo como funciona, me lo recomendó mi PEM, además de que yo anteriormente ya usaba React JS, no me debería de costar pasarme a otro Framework de JavaScript, y con esto terminé la jornada del viernes.
+
+---
+
 
 
 
