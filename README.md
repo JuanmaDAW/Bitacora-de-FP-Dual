@@ -55,6 +55,33 @@
 
 ---
 
+## Día 6 <br>  2/12/2024
+
+**Entrada:** 8:30 <br>
+**Salida:** 15:00
+
+**Actividad:** Hoy seguí con el Máster de CSS, a media mañana tuve una reunión con mi tutor Joaquín para ver el seguimiento y charlar un poco sobre dudas y demás, después de eso continué con el Máster hasta las 15:00.
+
+---
+
+## Día 7 <br>  3/12/2024
+
+**Entrada:** 8:30 <br>
+**Salida:** 15:00
+
+**Actividad:** Empecé el día continuando el Máster de CSS, sobre las 11 de la mañana aproximadamente vino mi PEM a mandarme un proyecto de HTML, CSS y JavaScript para que pusiera en practica mis conocimientos, paré el Máster y me puse con el proyecto, estuve con él toda la jornada.
+
+---
+
+## Día 8 <br>  5/12/2024
+
+**Entrada:** 8:30 <br>
+**Salida:** 15:00
+
+**Actividad:** El día de hoy seguí trabajando en el proyecto, construyendolo, corrigiendo errores etc, y pude terminarlo al final de la jornada. Estará subido en mis repositorios, se llama: "Calculadora de amortización de hipoteca"
+
+---
+
 
 
 
