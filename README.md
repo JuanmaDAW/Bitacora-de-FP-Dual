@@ -82,6 +82,15 @@
 
 ---
 
+## Día 9 <br>  10/12/2024
+
+**Entrada:** 8:30 <br>
+**Salida:** 15:00
+
+**Actividad:** Hoy seguí con el Máster de CSS y diseño responsive, hice un par de proyectos de maquetación y sobre las 14:00 tuve una reunicón con mi tutor Joaquín para mostrarle el proyecto de "Calculadora de amortización de hipoteca" y recibir Feedback, me dijo que estaba todo bien y que iba por buen camino, que siguiese con el Máster y que saltase las partes que ya tuviese dominadas. Por último mi PEM Daniel nos dijo que ibamos a hacer reuniones diarias o "Daily" en las que ibamos a comentar entre los miembros del equipo, que habíamos hecho cada uno en ese día o en el día anterior, con eso terminé el día.
+
+---
+
 
 
 
