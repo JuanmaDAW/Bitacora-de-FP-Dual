@@ -91,6 +91,33 @@
 
 ---
 
+## Día 10 <br>  12/12/2024
+
+**Entrada:** 8:30 <br>
+**Salida:** 15:00
+
+**Actividad:** Hoy empezamos las dailys o reuión diaria con los demás miembros del equipo, contándonos lo que habíamos hecho y resolviendo dudas, después estuve todo el día con el máster de CSS, lo pude terminar a las 15:00.
+
+---
+
+## Día 11 <br>  13/12/2024
+
+**Entrada:** 8:15 <br>
+**Salida:** 15:00
+
+**Actividad:** Empecé con el curso de JavaScript Avanzado y TypeScript, además de hacer la daily. Hoy empecé con el cambio de horario, entro 15 minutos antes todos los días haciendo un total de 1 hora más a la semana. A la 13:00 me puse en videollamada con mi tutor y me dijo que antes de seguir con el curso de JavaScript quería ver como podía desarrollar un proyecto de maquetación de un sitio web, así que me puse con ello el tiempo que me quedaba.
+
+---
+
+## Día 11 <br>  16/12/2024
+
+**Entrada:** 8:15 <br>
+**Salida:** 15:00
+
+**Actividad:** Dediqué todo el día a hacer el proyecto de maquetación, haciendolo fiel a la imagen del diseño dado y haciendola responsive: https://matt-portafolio.netlify.app/ 
+
+---
+
 
 
 
