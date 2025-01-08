@@ -118,6 +118,33 @@
 
 ---
 
+## Día 12 <br>  17/12/2024
+
+**Entrada:** 8:15 <br>
+**Salida:** 15:00
+
+**Actividad:** Comencé con el curso de JavaScript Avanzado de Víctor Robles 
+
+---
+
+## Día 13 <br>  19/12/2024
+
+**Entrada:** 8:15 <br>
+**Salida:** 15:00
+
+**Actividad:** Terminé el curso de JavaScript, me puse con el de TypeScript y lo pude terminar al final del día 
+
+---
+
+## Día 14 <br>  20/12/2024
+
+**Entrada:** 8:15 <br>
+**Salida:** 15:00
+
+**Actividad:** Empecé con el curso de Angular y estuve todo el día 
+
+---
+
 
 
 
