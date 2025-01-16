@@ -177,16 +177,16 @@
 **Entrada:** 8:15 <br>
 **Salida:** 15:00
 
-**Actividad:** 
+**Actividad:** Continué con el curso de Angular, hice un par de proyectos para practicar el tema de los modulos e interactividad entre componentes
 
 ---
 
-## Día 20 <br>  14/01/2025
+## Día 20 <br>  16/01/2025
 
 **Entrada:** 8:15 <br>
 **Salida:** 15:00
 
-**Actividad:** 
+**Actividad:** Hoy he visto eventos, como cambiar clases según una expresión u otra, conectividad entre componentes y la creación y uso de interfaces
 
 ---
 
