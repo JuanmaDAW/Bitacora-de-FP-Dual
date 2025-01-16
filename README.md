@@ -109,7 +109,7 @@
 
 ---
 
-## Día 11 <br>  16/12/2024
+## Día 12 <br>  16/12/2024
 
 **Entrada:** 8:15 <br>
 **Salida:** 15:00
@@ -118,7 +118,7 @@
 
 ---
 
-## Día 12 <br>  17/12/2024
+## Día 13 <br>  17/12/2024
 
 **Entrada:** 8:15 <br>
 **Salida:** 15:00
@@ -127,7 +127,7 @@
 
 ---
 
-## Día 13 <br>  19/12/2024
+## Día 14 <br>  19/12/2024
 
 **Entrada:** 8:15 <br>
 **Salida:** 15:00
@@ -136,12 +136,57 @@
 
 ---
 
-## Día 14 <br>  20/12/2024
+## Día 15 <br>  20/12/2024
 
 **Entrada:** 8:15 <br>
 **Salida:** 15:00
 
 **Actividad:** Empecé con el curso de Angular y estuve todo el día 
+
+---
+
+## Día 16 <br>  09/01/2025
+
+**Entrada:** 8:15 <br>
+**Salida:** 15:00
+
+**Actividad:** Seguí con el curso de Angular, repasando TypeScript.
+
+---
+
+## Día 17 <br>  10/01/2025
+
+**Entrada:** 8:15 <br>
+**Salida:** 15:00
+
+**Actividad:** Se cayó el servidor de Udemy, que es donde realizamos los cursos, así que nuestros tutores nos mandaron un proyecto para practicar hasta que se solucionara lo de Udemy, el proyecto era sacar los pokemon usando la Poke API, TypeScript y Bootstrap
+
+---
+
+## Día 18 <br>  13/01/2025
+
+**Entrada:** 8:15 <br>
+**Salida:** 15:00
+
+**Actividad:** Terminé el proyecto de Pokemon, lo subí a Github y seguí con el curso de Angular
+
+---
+
+## Día 19 <br>  14/01/2025
+
+**Entrada:** 8:15 <br>
+**Salida:** 15:00
+
+**Actividad:** 
+
+---
+
+## Día 20 <br>  14/01/2025
+
+**Entrada:** 8:15 <br>
+**Salida:** 15:00
+
+**Actividad:** 
 
 ---
 
