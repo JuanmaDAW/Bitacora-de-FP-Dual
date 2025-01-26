@@ -190,6 +190,48 @@
 
 ---
 
+## Día 21 <br>  17/01/2025
+
+**Entrada:** 8:15 <br>
+**Salida:** 15:00
+
+**Actividad:** He estado creando proyectos del curso, practicando listas dinámicas en Angular, eliminación y edición de los elementos de dicha lista
+
+---
+
+## Día 22 <br>  20/01/2025
+
+**Entrada:** 8:15 <br>
+**Salida:** 15:00
+
+**Actividad:** Hemos visto diferentes formas de recorrer bucles en Angular, sin necesidad de hacerlo manualmente, usamos NgFor en un componente de HTML para recorrer un array y mostrar un componente por cada elemento que haya en el array
+
+---
+
+## Día 23 <br>  21/01/2025
+
+**Entrada:** 8:15 <br>
+**Salida:** 15:00
+
+**Actividad:** Seguimos practicando eventos, servicios e interacciones entre componentes en Angular, es un poco extraño y necesito practicarlo para llegar a entenderlo bien.
+---
+
+## Día 24 <br>  23/01/2025
+
+**Entrada:** 8:15 <br>
+**Salida:** 15:00
+
+**Actividad:** Hemos parado el curso, nos han mandado los tutores un proyecto de ToDo List, para practicar los @Input y @Ouput, que es una de las maneras de compartir información entre componentes padres y componentes hijos, otra manera serían los Services, pero quieren que practiquemos las bases, así que estuve toda la mañana con el proyecto dandóle vueltas, no es tan fácil como parecía
+---
+
+## Día 25 <br>  24/01/2025
+
+**Entrada:** 8:15 <br>
+**Salida:** 15:00
+
+**Actividad:** Hoy he seguido con el proyecto del ToDo List, estuve probando diferentes cosas, mirando documentación oficial para intentar entenderlo, miré videos etc, y al final de la jornada conseguí que se enviase la información correctamente entre el padre y los hijos, dejé el proyecto casi terminado, el lunes le daré los últimos retoques para completar todos los requisitos, además, estuve en reunión con mi Tutor Joaquín, hablando sobre como llevaba el curso, las practicas, y le estuve haciendo algunas preguntas sobre el Framework que no me quedaban del todo claras.
+---
+
 
 
 
