@@ -1,4 +1,4 @@
-# Bitacora de FP Dual 📘
+# Bitácora de FP Dual 📘
 
 ## Información General
 - **Nombre del Practicante:** Juan Manuel Vizcaíno Barquero
@@ -232,6 +232,42 @@
 **Salida:** 15:00
 
 **Actividad:** Hoy he seguido con el proyecto del ToDo List, estuve probando diferentes cosas, mirando documentación oficial para intentar entenderlo, miré videos etc, y al final de la jornada conseguí que se enviase la información correctamente entre el padre y los hijos, dejé el proyecto casi terminado, el lunes le daré los últimos retoques para completar todos los requisitos, además, estuve en reunión con mi Tutor Joaquín, hablando sobre como llevaba el curso, las practicas, y le estuve haciendo algunas preguntas sobre el Framework que no me quedaban del todo claras.
+
+---
+
+## Día 26 <br>  27/01/2025
+
+**Entrada:** 8:15 <br>
+**Salida:** 15:00
+
+**Actividad:** Estuve terminando de pulir el proyecto de ToDo List y lo subí al repositorio de tareas, después de eso me dio tiempo a seguir con el curso 1 hora.
+
+---
+
+## Día 27 <br>  28/01/2025
+
+**Entrada:** 8:15 <br>
+**Salida:** 15:00
+
+**Actividad:** Hoy he seguido hasta el enrutamiento en el curso de Angular y en la Daily he pedido que me mandaran algún proyecto para practicar y asentar los conocimientos, algunas cosas de Angular se me escapan y quiero coger bien las bases. El proyecto es un Weather APP, consumiendo una API del tiempo.
+
+---
+
+## Día 28 <br>  30/01/2025
+
+**Entrada:** 8:15 <br>
+**Salida:** 15:00
+
+**Actividad:** Hoy he seguido con el proyecto del Weather App practicando el HTTPCLient para el consumo de la API.
+
+---
+
+## Día 29 <br>  31/01/2025
+
+**Entrada:** 8:15 <br>
+**Salida:** 15:00
+
+**Actividad:** Sigo con el proyecto del Weather App,  arreglando algunos fallos y terminando de darle estilos.
 
 ---
 
