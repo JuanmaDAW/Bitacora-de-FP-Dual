@@ -271,6 +271,42 @@
 
 ---
 
+## Día 30 <br> 03/02/2025
+
+**Entrada:** 8:15 <br>
+**Salida:** 15:00
+
+**Actividad:** Tuvimos una reunión para hablar sobre el proyecto, para añadir elementos extras y cambiar ciertas cosas, como una gráfica de los datos etc.
+
+---
+
+## Día 31 <br> 04/02/2025
+
+**Entrada:** 8:15 <br>
+**Salida:** 15:00
+
+**Actividad:** Seguimos con el proyecto del tiempo, aprendiendo e investigando sobre Angular, desde la documentación oficial, también con la libreria de Angular Material y RxJs para los observables, quita bastante tiempo el tema de buscar en la documentación.
+
+---
+
+## Día 32 <br> 06/02/2025
+
+**Entrada:** 8:15 <br>
+**Salida:** 15:00
+
+**Actividad:** El día de hoy estuve añadiendo funcionalidades a la aplicación, refactorizando el consumo de la API y en lugar de consumirla con Fetch, ahora funciona con un Observable, estuve dándole estilos y arrelando errores.
+
+---
+
+## Día 33 <br> 07/02/2025
+
+**Entrada:** 8:15 <br>
+**Salida:** 15:00
+
+**Actividad:** Hoy estuve terminando de maquetar, dar los últimos estilos, haciendo la aplicación responsive y corrigiendo errores, después de eso, a las 12:30 tuvimos una reunión con los tutores y el PEM, donde estuvimos haciendo las reviews de las aplicaciones de cada uno, resolviendo dudas, hablando sobre la programación que tenemos definida para el período de Dual y viendo que vamos a hacer en las próximas semanas.
+
+---
+
 
 
 
