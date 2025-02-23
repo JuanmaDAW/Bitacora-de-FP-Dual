@@ -307,6 +307,90 @@
 
 ---
 
+## Día 34 <br> 10/02/2025
+
+**Entrada:** 8:15 <br>
+**Salida:** 15:00
+
+**Actividad:** Esta semana nos mandaron un proyecto de banderas de países, al hacer click en cualquiera de ellas te aparece un modal con toda la información de esa bandera, país, monedas, idiomas, población etc.
+
+---
+
+## Día 35 <br> 11/02/2025
+
+**Entrada:** 8:15 <br>
+**Salida:** 15:00
+
+**Actividad:** Hoy he estado colocando un poco la estructura básica del proyecto e investigando y probando los diferentes EndPoints de la API en Postman para ver cómo acceder a los datos.
+
+---
+
+## Día 36 <br> 12/02/2025
+
+**Entrada:** 11:00 <br>
+**Salida:** 13:00
+
+**Actividad:** Hoy hemos ido a la empresa a ver a nuestros tutores del centro, han venido a hacer una visita y hablar con los tutores de la empresa sobre nosotros.
+
+---
+
+## Día 37 <br> 13/02/2025
+
+**Entrada:** 8:15 <br>
+**Salida:** 15:00
+
+**Actividad:** He seguido con el proyecto, viendo cómo acceder a ciertos datos y dándole estilos, refactorizando el código y haciéndolo más corto y eficiente.
+
+---
+
+## Día 38 <br> 14/02/2025
+
+**Entrada:** 8:15 <br>
+**Salida:** 15:00
+
+**Actividad:** Hoy hemos estado presentando los proyectos en la review, hablando sobre cosas que hemos hecho bien y cosas que podemos cambiar, y después de eso hemos estado con el curso lo que nos ha dado tiempo.
+
+
+---
+
+## Día 39 <br> 17/02/2025
+
+**Entrada:** 8:15 <br>
+**Salida:** 15:00
+
+**Actividad:** Esta semana tocaba otro proyecto, en este caso hacer un portfolio, y meter todos los anteriores proyectos que hicimos en Angular, además de hacer todo esto mediante rutas, con una codificación clara y limpia.
+
+
+---
+
+## Día 40 <br> 18/02/2025
+
+**Entrada:** 8:15 <br>
+**Salida:** 15:00
+
+**Actividad:** Hoy he seguido con el portfolio, arreglando problemas con los módulos, rutas y servicios, y dando un poco de estilo a la estructura.
+
+---
+
+## Día 41 <br> 20/02/2025
+
+**Entrada:** 8:15 <br>
+**Salida:** 15:00
+
+**Actividad:** Hoy he seguido con el portfolio, arreglando problemas con los módulos, rutas y servicios, y dando un poco de estilo a la estructura.
+
+
+---
+
+## Día 42 <br> 21/02/2025
+
+**Entrada:** 8:15 <br>
+**Salida:** 15:00
+
+**Actividad:** Hoy presentamos el proyecto en la review, viendo y corrigiendo el tema de las rutas y demás, después de eso volvimos con el curso pero para sorpresa, lo habían actualizado, y tenemos que ver cómo seguimos la formación ya que el curso iba con una versión de Angular y ahora funciona con otra
+
+
+
 
 
 
