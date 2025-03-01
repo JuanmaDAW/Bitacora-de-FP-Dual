@@ -389,9 +389,40 @@
 
 **Actividad:** Hoy presentamos el proyecto en la review, viendo y corrigiendo el tema de las rutas y demás, después de eso volvimos con el curso pero para sorpresa, lo habían actualizado, y tenemos que ver cómo seguimos la formación ya que el curso iba con una versión de Angular y ahora funciona con otra
 
+---
 
+## Día 43 <br> 24/02/2025
 
+**Entrada:** 8:15 <br>
+**Salida:** 15:00
 
+**Actividad:** Seguimos con el curso, ahora por la sección de Formularios Reactivos para la nueva tarea, es un formulario que consiste en 3 inputs, uno para seleccionar una comunidad autónoma, otro para seleccionar la provincia que elijamos de esa comunidad, y el tercero para el municipio, después se enviará el formulario recibiendo el momento un mapa con los datos de dicho municipio.
 
+---
+
+## Día 44 <br> 25/02/2025
+
+**Entrada:** 8:15 <br>
+**Salida:** 15:00
+
+**Actividad:** Hoy he estado haciendo la primera parte de los formularios reactivos del curso, muy útil para proyectos reales. Y he empezado la estructura de la tarea.
+
+---
+
+## Día 45 <br> 27/02/2025
+
+**Entrada:** 8:15 <br>
+**Salida:** 15:00
+
+**Actividad:** He terminado de hacer la tarea de las poblaciones, la de los formularios reactivos, quedan algunos retoques que haré mañana antes de la Review, también he empezado a tener reuniones dirarias con la gente del proyecto en el que estoy dentro de la empresa.
+
+---
+
+## Día 46 <br> 28/02/2025
+
+**Entrada:** 8:15 <br>
+**Salida:** 15:00
+
+**Actividad:** Hoy presentamos la tarea de las poblaciones y comentando diferentes temas acerca del código, también me dijeron que una vez terminase mi período de Dual, me empezarían a mandar tareas y a hacerme un seguimiento sobre el proyecto en el que estoy de la empresa, el resto del día lo dediqué a seguir con el curso, ya no queda mucho para terminarlo.
 
 
