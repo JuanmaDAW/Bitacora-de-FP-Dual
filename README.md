@@ -425,4 +425,22 @@
 
 **Actividad:** Hoy presentamos la tarea de las poblaciones y comentando diferentes temas acerca del código, también me dijeron que una vez terminase mi período de Dual, me empezarían a mandar tareas y a hacerme un seguimiento sobre el proyecto en el que estoy de la empresa, el resto del día lo dediqué a seguir con el curso, ya no queda mucho para terminarlo.
 
+---
+
+## Día 47 <br> 06/03/2025
+
+**Entrada:** 8:15 <br>
+**Salida:** 15:00
+
+**Actividad:** Volvemos después del puente de carnavales, hoy hemos estado con las protección de rutas, bloqueando aquellas rutas que elijamos al portfolio, impidiendo entrar a dichas rutas si el usuario no ha iniciado sesión, tenemos que hacer un login, las validaciones del login y el register, la protección de las rutas y un pequeño badge o con el nombre del usuario cuando haya iniciado sesión.
+
+---
+
+## Día 48 <br> 07/03/2025
+
+**Entrada:** 8:15 <br>
+**Salida:** 15:00
+
+**Actividad:** Hoy he terminado el proyecto del Login, y he terminado el apartado del curso de 'LifeCycleHooks' y 'Directivas Personalizadas', ya solo me queda 1 apartado de las secciones obligatorias.
+
 
